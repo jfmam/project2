@@ -9,6 +9,11 @@ const IndexPage = () => (
         <a>About</a>
       </Link>
     </p>
+    <p>
+      <Link href="/main">
+        <a>Web Interaction</a>
+      </Link>
+    </p>
   </Layout>
 )
 
